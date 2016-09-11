@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Lesson {
+public class A_Lesson {
 
 	public int Index {
 		get;
